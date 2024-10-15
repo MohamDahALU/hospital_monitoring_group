@@ -6,3 +6,7 @@ This script archives the "heart_rate_log.txt" by appending the date information 
 
 ## backup_archives.sh
 This script creates a directory called "archived_logs_group30", and moves each archived log file to it. Then it backs up that directory to a sandbox using the scp command.
+
+## Experience
+We are a team of 6. Unfortunately 1 of our members is currently in out of kigali. In order to complete the project, we met at campus on Tuesday by 12 pm while the member out of kigali 
+joined virtually. We designated tasks based of each persons' strength. Doing this allowed us to complete the task in about 4 hrs. The entire experience alllowed each individual to shine andhelped us understand the benefit of designation and teamwork.  
